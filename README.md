@@ -67,6 +67,9 @@
 8. ders_25042022:
 + Tuple, set, dictionary kullanımı ve bunlarda en çok kullanılan işlemler (del,count,sort vb)
 + Tuple, set, dictionary işlemleri ile örnek soru çözümleri
++ *Soru örnekleri:* 
+
+  - Belirlenen aralıktan sayıları seçerek ve teklerin karşısına 1, çiflerin karşısına 2 yazması koşuluyla bir dictionary oluşturan program
 
 
 
